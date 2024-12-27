@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\proniaonion\\src\\core\\proniaonion.domain\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|solutionrelative:src\\core\\proniaonion.domain\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\proniaonion\\src\\core\\proniaonion.domain\\entities\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|solutionrelative:src\\core\\proniaonion.domain\\entities\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\proniaonion\\src\\core\\proniaonion.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|solutionrelative:src\\core\\proniaonion.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\proniaonion\\src\\core\\proniaonion.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|solutionrelative:src\\core\\proniaonion.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\proniaonion\\src\\core\\proniaonion.domain\\entities\\base\\basenameableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|solutionrelative:src\\core\\proniaonion.domain\\entities\\base\\basenameableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\code.homeworks\\proniaonion\\src\\core\\proniaonion.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F629775D-A435-498A-8C14-0F018F4AE6AF}|Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj|solutionrelative:src\\core\\proniaonion.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductColor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\ProductColor.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\ProniaOnion.Domain\\Entities\\ProductColor.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\ProductColor.cs",
+              "RelativeToolTip": "Src\\Core\\ProniaOnion.Domain\\Entities\\ProductColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:15:00.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\ProniaOnion.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Src\\Core\\ProniaOnion.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:04:23.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\Color.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\ProniaOnion.Domain\\Entities\\Color.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\Color.cs",
+              "RelativeToolTip": "Src\\Core\\ProniaOnion.Domain\\Entities\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:04:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\ProniaOnion.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Src\\Core\\ProniaOnion.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:04:06.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseNameableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\Base\\BaseNameableEntity.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\ProniaOnion.Domain\\Entities\\Base\\BaseNameableEntity.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\Base\\BaseNameableEntity.cs",
+              "RelativeToolTip": "Src\\Core\\ProniaOnion.Domain\\Entities\\Base\\BaseNameableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:03:17.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\ProniaOnion.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Src\\Core\\ProniaOnion.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:55:07.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
