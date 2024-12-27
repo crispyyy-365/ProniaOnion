@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProniaOnion.Domain.Entities.Base
+namespace ProniaOnion.Domain.Entities
 {
 	public abstract class BaseNameableEntity : BaseEntity
 	{
