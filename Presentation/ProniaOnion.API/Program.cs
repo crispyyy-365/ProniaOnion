@@ -1,3 +1,4 @@
+using ProniaOnion.Presistence.ServerRegistration;
 
 namespace ProniaOnion.API
 {
@@ -13,6 +14,8 @@ namespace ProniaOnion.API
 			// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 			builder.Services.AddEndpointsApiExplorer();
 			builder.Services.AddSwaggerGen();
+			var str = builder.Configuration.GetConnectionString("default");
+			builder.Services.AddPersistenceServices(builder.Configuration);
 
 			var app = builder.Build();
 
