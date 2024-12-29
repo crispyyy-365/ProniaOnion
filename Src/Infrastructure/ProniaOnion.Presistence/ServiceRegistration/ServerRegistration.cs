@@ -1,7 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using ProniaOnion.Application.Abstractions.Repositories;
 using ProniaOnion.Presistence.Contexts;
+using ProniaOnion.Presistence.Implementations.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +19,10 @@ namespace ProniaOnion.Presistence.ServerRegistration
 		{
 			services.AddDbContext<AppDbContext>
 				(opt => opt.UseSqlServer(configuration.GetConnectionString("default")));
+
+			services.AddScoped<ICategoryRepository, CategoryRepository>();
+			services.AddScoped<IProductRepository, ProductRepository>();
+			services.AddScoped<IColorRepository, ColorRepository>();
 
 			return services;
 		}

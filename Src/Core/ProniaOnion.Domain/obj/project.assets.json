@@ -2041,11 +2041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj",
       "projectName": "ProniaOnion.Domain",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\code.homeworks\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\ProniaOnion\\Src\\Core\\ProniaOnion.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
