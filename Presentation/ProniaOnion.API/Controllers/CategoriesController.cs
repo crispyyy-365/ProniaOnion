@@ -34,7 +34,7 @@ namespace ProniaOnion.API.Controllers
 			return StatusCode(StatusCodes.Status201Created);
 		}
 		[HttpPut("{id}")]
-		public async Task<IActionResult> Update(int id, [FromForm] UpdateCategoryDto categoryDto)
+		public async Task<IActionResult> Update(int id, UpdateCategoryDto categoryDto)
 		{
 			if (id < 1) return BadRequest();
 			await _service.UpdateAsync(id, categoryDto);

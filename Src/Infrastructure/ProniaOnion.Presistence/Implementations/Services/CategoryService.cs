@@ -63,8 +63,7 @@ namespace ProniaOnion.Presistence.Implementations.Services
 			Category category = await _repository.GetByIdAsync(id);
 			if (category == null) throw new Exception("Not Found");
 			if (await _repository.AnyAsync(c => c.Name == categoryDto.Name && c.Id != id)) throw new Exception("Already exists");
-			category = _mapper.Map<Category>(categoryDto);
-			category.Id = id;
+			category = _mapper.Map(categoryDto, category);
 			category.LastUpdatedAt = DateTime.Now;
 			_repository.Update(category);
 			await _repository.SaveChangesAsync();
