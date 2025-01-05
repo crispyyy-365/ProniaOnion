@@ -2,8 +2,10 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using ProniaOnion.Application.Abstractions.Repositories;
+using ProniaOnion.Application.Abstractions.Services;
 using ProniaOnion.Presistence.Contexts;
 using ProniaOnion.Presistence.Implementations.Repositories;
+using ProniaOnion.Presistence.Implementations.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +25,8 @@ namespace ProniaOnion.Presistence.ServerRegistration
 			services.AddScoped<ICategoryRepository, CategoryRepository>();
 			services.AddScoped<IProductRepository, ProductRepository>();
 			services.AddScoped<IColorRepository, ColorRepository>();
+
+			services.AddScoped<ICategoryService, CategoryService>();
 
 			return services;
 		}

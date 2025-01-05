@@ -12,3 +12,17 @@ C:\Users\User\OneDrive\Desktop\code.homeworks\ProniaOnion\Src\Core\ProniaOnion.D
 C:\Users\User\OneDrive\Desktop\code.homeworks\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ref\ProniaOnion.Domain.dll
 C:\Users\User\OneDrive\Desktop\code.homeworks\ProniaOnion\Src\Core\ProniaOnion.Domain\bin\Debug\net8.0\ProniaOnion.Domain.runtimeconfig.json
 C:\Users\User\OneDrive\Desktop\code.homeworks\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ProniaOnion.Domain.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\bin\Debug\net8.0\ProniaOnion.Domain.deps.json
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\bin\Debug\net8.0\ProniaOnion.Domain.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\bin\Debug\net8.0\ProniaOnion.Domain.dll
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\bin\Debug\net8.0\ProniaOnion.Domain.pdb
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ProniaOnion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ProniaOnion.Domain.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ProniaOnion.Domain.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ProniaOnion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ProniaOnion.Domain.sourcelink.json
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ProniaOnion.Domain.dll
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\refint\ProniaOnion.Domain.dll
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ProniaOnion.Domain.pdb
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ProniaOnion.Domain.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Core\ProniaOnion.Domain\obj\Debug\net8.0\ref\ProniaOnion.Domain.dll

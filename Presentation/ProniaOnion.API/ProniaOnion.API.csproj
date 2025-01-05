@@ -15,10 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\Src\Infrastructure\ProniaOnion.Presistence\ProniaOnion.Presistence.csproj" />
   </ItemGroup>
 

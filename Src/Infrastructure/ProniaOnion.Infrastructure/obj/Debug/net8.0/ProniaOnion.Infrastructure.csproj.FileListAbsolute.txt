@@ -12,3 +12,17 @@ C:\Users\User\OneDrive\Desktop\code.homeworks\ProniaOnion\Src\Infrastructure\Pro
 C:\Users\User\OneDrive\Desktop\code.homeworks\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ref\ProniaOnion.Infrastructure.dll
 C:\Users\User\OneDrive\Desktop\code.homeworks\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\bin\Debug\net8.0\ProniaOnion.Infrastructure.runtimeconfig.json
 C:\Users\User\OneDrive\Desktop\code.homeworks\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ProniaOnion.Infrastructure.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\bin\Debug\net8.0\ProniaOnion.Infrastructure.deps.json
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\bin\Debug\net8.0\ProniaOnion.Infrastructure.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\bin\Debug\net8.0\ProniaOnion.Infrastructure.dll
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\bin\Debug\net8.0\ProniaOnion.Infrastructure.pdb
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ProniaOnion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ProniaOnion.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ProniaOnion.Infrastructure.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ProniaOnion.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ProniaOnion.Infrastructure.sourcelink.json
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ProniaOnion.Infrastructure.dll
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\refint\ProniaOnion.Infrastructure.dll
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ProniaOnion.Infrastructure.pdb
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ProniaOnion.Infrastructure.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\ProniaOnion\Src\Infrastructure\ProniaOnion.Infrastructure\obj\Debug\net8.0\ref\ProniaOnion.Infrastructure.dll

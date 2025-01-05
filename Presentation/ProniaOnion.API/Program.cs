@@ -1,4 +1,5 @@
 using ProniaOnion.Presistence.ServerRegistration;
+using ProniaOnion.Application.ServiceRegistration;
 
 namespace ProniaOnion.API
 {
@@ -15,7 +16,8 @@ namespace ProniaOnion.API
 			builder.Services.AddEndpointsApiExplorer();
 			builder.Services.AddSwaggerGen();
 			var str = builder.Configuration.GetConnectionString("default");
-			builder.Services.AddPersistenceServices(builder.Configuration);
+			builder.Services.AddPersistenceServices(builder.Configuration)
+				.AddApplicationServices();
 
 			var app = builder.Build();
 
